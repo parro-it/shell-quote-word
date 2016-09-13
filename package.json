@@ -1,6 +1,6 @@
 {
   "name": "shell-quote-word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "unquote a single shell arguments",
   "devDependencies": {
     "tape": "~2.3.0",

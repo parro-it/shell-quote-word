@@ -1,5 +1,7 @@
 # shell-quote
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/parro-it/shell-quote-word.svg)](https://greenkeeper.io/)
+
 > Parse and quote shell commands.
 
 > A stripped down version of [shell-quote](https://github.com/substack/node-shell-quote) that parse a single WORD ignoring any glob, operator or parameter substitution found.

@@ -3,8 +3,8 @@
   "version": "1.0.1",
   "description": "unquote a single shell arguments",
   "devDependencies": {
-    "tape": "~2.3.0",
-    "xo": "^0.16.0"
+    "tape": "~4.6.3",
+    "xo": "^0.18.1"
   },
   "scripts": {
     "test": "tape test/*.js && xo"
